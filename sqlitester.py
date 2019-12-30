@@ -15,7 +15,18 @@
 from googlesearch import search
 import requests, sys, urllib
 
-dork = input("Dork: ")
+print("""
+ ____   ___  _     _ _____         _            
+/ ___| / _ \| |   (_)_   _|__  ___| |_ ___ _ __ 
+\___ \| | | | |   | | | |/ _ \/ __| __/ _ \ '__|
+ ___) | |_| | |___| | | |  __/\__ \ ||  __/ |   
+|____/ \__\_\_____|_| |_|\___||___/\__\___|_|   
+
+SQLiTester - by 0x53 | Twitter: @samueltuxx
+""")
+
+
+dork = input("[+] Dork: ")
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0'}
 output = []
 
