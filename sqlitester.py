@@ -27,6 +27,7 @@ SQLiTester - by 0x53 | Twitter: @samueltuxx
 
 
 dork = input("[+] Dork: ")
+print(" ")
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0'}
 output = []
 
