@@ -1,5 +1,5 @@
 # SQLiTester
-Script to find websites vulnerable to SQL Injection with Google Dork
+Script to find websites vulnerable to SQL Injection with Google Dork.
 
 <b>Note:</b> If Too Many Requests error appears try running the script later!
 
