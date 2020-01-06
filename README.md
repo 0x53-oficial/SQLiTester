@@ -10,4 +10,4 @@ Script to find websites vulnerable to SQL Injection with Google Dork.
 <center><b>Install:</b> pip3 install -r requirements.txt
 
 <h2>Contact:</h2>
-<center><b>Twitter:</b> @samueltuxx
+<center><b>Twitter:</b> @0x53_oficial
